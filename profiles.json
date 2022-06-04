@@ -34,8 +34,8 @@ window.others = {
         "likes": [40000, 450000, 90000, 100000, 150000, 155000] //6
       },
     {
-        "avatar": "avatars/others/mary.png",
-        "username": "Mary",
+        "avatar": "avatars/others/ryan.png",
+        "username": "Ryan",
         "text": "My name is Mary and I am 49 years old. I have a husband and 2 grown sons. My family and I lived in different countries. Our sons attended international schools wherever we went and since moving to China, I found work at those schools as well. Besides roaming around the world, I like playing games. Board games, cards, black jack or poker, mah jong, or silly games on Facebook, jig saws, basically anything",
         "likes": [20000, 25000, 95000] //3
       },
@@ -46,7 +46,7 @@ window.others = {
         "likes": [12000, 38000] //1
       },
           {
-        "avatar": "avatars/others/kimberly.png",
+        "avatar": "avatars/others/kim.png",
         "username": "Kimberly",
         "text": "Hey, guys. I'm 19, native Korean. I've been in America for about four years now.I consider myself pretty nice, though not a total angel. I just like being friendly to people I meet. In my spare time, I like making all kinds of friends, having conversations about whatever, looking at paintings, using makeup, reading, singing (show choir representtt!), making jewelry, and eating delicious food. Enjoy your day, stay out of trouble. <3",
         "likes": [10000, 50000, 88000, 11000, 11500, 120000, 15000] //7
