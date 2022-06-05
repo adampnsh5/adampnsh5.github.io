@@ -6,19 +6,19 @@ window.others = {
       {
         "avatar": "avatars/others/george.png",
         "username": "George",
-        "text": "Hi everyone. I'm George. I work for the US branch of a big food packaging company. If you have kids they probably bought our juiceboxes. Lifelong Eagles fan and lifelong Philadelphian. When we're not working my wife and I spend most of our time driving our boys between school and football practice. After all that we somehow manage to show up at church every Sunday!",
+        "text": "My names George. I'm originally from New York. moved to the Philadelphia area for work almost fifteen years ago. I'm in the food packaging industry. We make cartons for things like juiceboxes and soup broth. I'm a golfer. When we're not working my wife and I spend most of our time driving our boys between school and football practice.",
         "likes": [45000, 50000, 110000, 150000] //4
       },
       {
         "avatar": "avatars/others/sarah.png",
         "username": "Sarah",
-        "text": "Let me introduce myself. I’m Sarah, married, and mother of two wonderful (grown up) children. My career has been a bit peculiar. Starting off as a graduate historian, I switched to an entirely different discipline: occupational assessor trying to help young people with disabilities to get a job. I’ve just retired and started spending more time on my hobbies, such as singing, reading, and playing volleyball.",
+        "text": "Hello! Nice to meet you all. I’m Sarah, married, and mother of two wonderful (grown up) children. My career has been a bit peculiar. Starting off as a graduate historian, I switched to an entirely different discipline: occupational assessor trying to help young people with disabilities to get a job. I’ve just retired and started spending more time on my hobbies, such as singing, reading, and playing volleyball.",
         "likes": [12000, 14000,15000,35000,80000,100000,110000,150000,20000] //9
       },
       {
         "avatar": "avatars/others/john.png",
         "username": "John",
-        "text": "I’m 38 years old, married, with two kids. Ive bean in construction for 20 years. Tryna make some extra cash",
+        "text": "Im 38 years old married kids. Ive bean in construction for 20 years. Tryna make some extra cash. What else Im suppose to write. I ",
 		"likes": [20000, 21000] //2
       },
       {
@@ -42,7 +42,7 @@ window.others = {
       {
         "avatar": "avatars/others/kevin.png",
         "username": "Kevin",
-        "text": "Hello, nice to meet you. My name is Kevin. I go to college on the West Coast where my family lives nearby. I like to read and play the piano. My favorite musicians are Chopin, Faure, and Debussy. I'm on the track and field team, so I spend lots of time practicing.",
+        "text": "Hello, nice to meet you. My name is Kevin. I'm a college student in my second year. I like to read and play the piano. My favorite musicians are Chopin, Faure, and Debussy. I'm on the track and field team, so I spend lots of time practicing.",
         "likes": [12000, 38000] //1
       },
           {
@@ -54,13 +54,13 @@ window.others = {
       {
         "avatar": "avatars/others/harry.png",
         "username": "Harry",
-        "text": "Howdy. My names Harry and I'm a carpenter. I'm here making some money off the clock. GO PATS.",
+        "text": "My names Harry and I'm a carpenter. I'm here making some money off the clock. I'm a lifelong patriots fan.",
         "likes": [12000, 40000, 120000] //3
       },
       {
         "avatar": "avatars/others/heather.png",
         "username": "Heather",
-        "text": "Heather.",
+        "text": "Hi yall my name is Heather. Im a gymnist with a passion for",
         "likes": [13000, 50000, 80000, 88000, 120000] //5
       },
       {
