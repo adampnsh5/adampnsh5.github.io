@@ -18,7 +18,7 @@ window.others = {
       {
         "avatar": "avatars/others/john.png",
         "username": "John",
-        "text": "Im 38 years old, married with four kids. Ive bean in construction for 20 years. Tryna make some extra cash. I don't know what else Im supposed to write. I barbeque on the weekends. Burgers, chicken, ribs, sausages. I like my steak rare.",
+        "text": "Im 38 years old, married with four kids. Ive bean in construction for 20 years. Tryna make some extra cash. Not much else to know about me. I barbeque every weekend. My wife says I eat too much red meat but I tell her its steak or cigars and shes lucky its steak",
 		"likes": [20000, 21000] //2
       },
       {
