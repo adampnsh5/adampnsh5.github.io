@@ -6,7 +6,7 @@ window.others = {
       {
         "avatar": "avatars/others/george.png",
         "username": "George",
-        "text": "My names George. I'm originally from New York. moved to the Philadelphia area for work almost fifteen years ago. I'm in the food packaging industry. We make cartons for things like juiceboxes and soup broth. I'm a golfer. When we're not working my wife and I spend most of our time driving our boys between school and football practice.",
+        "text": "My names George. I'm originally from New York. moved to the Philadelphia area for work almost fifteen years ago. I'm in the food packaging industry. We make cartons for things like juiceboxes and soup broth. I'm a golfer. When we're not working my wife and I spend most of our time shuttling our boys between school and football practice.",
         "likes": [45000, 50000, 110000, 150000] //4
       },
       {
@@ -18,7 +18,7 @@ window.others = {
       {
         "avatar": "avatars/others/john.png",
         "username": "John",
-        "text": "Im 38 years old married kids. Ive bean in construction for 20 years. Tryna make some extra cash. What else Im suppose to write. I ",
+        "text": "Im 38 years old, married with four kids. Ive bean in construction for 20 years. Tryna make some extra cash. I don't know what else Im supposed to write. I barbeque on the weekends. Burgers, chicken, ribs, sausages. I like my steak rare.",
 		"likes": [20000, 21000] //2
       },
       {
@@ -42,7 +42,7 @@ window.others = {
       {
         "avatar": "avatars/others/kevin.png",
         "username": "Kevin",
-        "text": "Hello, nice to meet you. My name is Kevin. I'm a college student in my second year. I like to read and play the piano. My favorite musicians are Chopin, Faure, and Debussy. I'm on the track and field team, so I spend lots of time practicing.",
+        "text": "Hello, nice to meet you. My name is Kevin. I'm a second year college student studying engineering. I like to read and play the piano. My favorite musicians are Chopin, Faure, and Debussy. I did track and field in high school, but I haven't had much time to practice since starting college.",
         "likes": [12000, 38000] //1
       },
           {
@@ -54,19 +54,19 @@ window.others = {
       {
         "avatar": "avatars/others/harry.png",
         "username": "Harry",
-        "text": "My names Harry and I'm a carpenter. I'm here making some money off the clock. I'm a lifelong patriots fan.",
+        "text": "Hi everybody, my names Harry. I own a True Value hardware and I do some carpentry work on the side. I'm a lifelong Patriots fan. My kids are grown and out of the house.",
         "likes": [12000, 40000, 120000] //3
       },
       {
         "avatar": "avatars/others/heather.png",
         "username": "Heather",
-        "text": "Hi yall my name is Heather. Im a gymnist with a passion for",
+        "text": "Hi y'all my name is Heather. I'm a gymnastics instructor with a passion for sports and theater. I've been doing gymnastics since middleschool and I believe that it's the best way to improve confidence and self control. My favorite shows are Wicked and Cats. I think I've seen both like 20 times. If our discussion topic is showtunes you better hope we're not paired up!",
         "likes": [13000, 50000, 80000, 88000, 120000] //5
       },
       {
         "avatar": "avatars/others/jane.png",
         "username": "Jane",
-        "text": "Dear all, my name is Jane",
+        "text": "Dear all, my name is Jane. I am the proud mother of two talented children. My youngest enjoys drawing and painting. His big sister is a soccer prodigy. We moved recently to allow them to attend a better school and they are absolutely thriving here. My husband runs a very successful landscaping company. I was a florist before meeting my husband. Now I'm a full time mother. I enjoy reading and gardening in my spare time.",
         "likes": [10000, 50000] //6
       },
 
