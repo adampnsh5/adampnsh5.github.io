@@ -39,15 +39,15 @@ $(function() {
     settings.condition_1_likes = [132800, 9999999]; 
 
     // In condition 2, user will receive 6 likes at the following timepoints (in ms). Default: [10000, 15000,35000,80000,1320000,150000]
-    settings.condition_2_likes = [72500, 95300, 120600, 152500, 225800, 279300];  
+    settings.condition_2_likes = [42500, 75300, 100600, 152500, 175800, 259300];  
     
     // In condition 3, user will receive 9 likes at the following timepoints (in ms). Default: [10000, 11000,15000,35000,80000,100000,110000,150000,20000]
     settings.condition_3_likes = [10000, 11000,15000,35000,80000,100000,110000,150000,20000]; 
 
 	// **Others' likes**     
 	// To keep the total distribution of "likes" constant across conditions, The "likes" received by one group member can be adjusted according to the participant's. By default, the other group member receives 9 "likes" in the participant-ostracism condition, 5 in the participant-inclusion condtion, and 1 in the participant-overinclusion condtion.
-	settings.condition_1_adjusted_likes = [62050, 99000, 118500, 135600, 193400, 217000, 238000, 266750, 288889]; // 9
-	settings.condition_2_adjusted_likes = [59050, 89000, 135600, 238000, 266750]; // 5
+	settings.condition_1_adjusted_likes = [42050, 79000, 118500, 135600, 193400, 217000, 238000, 266750, 288889]; // 9
+	settings.condition_2_adjusted_likes = [50050, 89000, 135600, 238000, 266750]; // 5
 	settings.condition_3_adjusted_likes = [12000, 9999999]; //1	
 	
     // Usernames by which the participant will receive "likes"
