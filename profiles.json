@@ -7,25 +7,25 @@ window.others = {
         "avatar": "avatars/others/george.png",
         "username": "George",
         "text": "My names George. I'm originally from New York. moved to the Philadelphia area for work almost fifteen years ago. I'm in the food packaging industry. We make cartons for things like juiceboxes and soup broth. I'm a golfer. When we're not working my wife and I spend most of our time shuttling our boys between school and football practice.",
-        "likes": [67800, 87240, 152300, 219600, 252800] //5
+        "likes": [47800, 87240, 152300, 219600, 252800] //5
       },
       {
         "avatar": "avatars/others/sarah.png",
         "username": "Sarah",
         "text": "Hello! Nice to meet you all. I’m Sarah, married, and mother of two wonderful (grown up) children. My career has been a bit peculiar. Starting off as a graduate historian, I switched to an entirely different discipline: occupational assessor trying to help young people with disabilities to get a job. I’ve just retired and started spending more time on my hobbies, such as singing, reading, and playing volleyball.",
-        "likes": [74240, 88340, 162350, 198320, 212400, 232400, 265130] //7
+        "likes": [34240, 58340, 122350, 178320, 212400, 232400, 265130] //7
       },
       {
         "avatar": "avatars/others/john.png",
         "username": "John",
         "text": "Im 38 years old, married with four kids. Ive bean in construction for 20 years. Tryna make some extra cash. Not much else to know about me. I barbeque every weekend. My wife says I eat too much red meat but I tell her its steak or cigars and shes lucky its steak",
-		"likes": [82400, 149939, 214450] //3
+		"likes": [52400, 149939, 214450] //3
       },
       {
         "avatar": "avatars/others/anca.png",
         "username": "Anca",
         "text": "Hello my name is Anca. I'm a registerd nurse but my passions are cooking and soccer. My dad is english and my mom is bengali. Dad is the biggest Man Utd fan in the world so that definitely rubbed off on me. Besides my hobbies my friends and wine are the most important thing in my life.",
-        "likes": [68900, 102300, 123400, 189020, 212560] //5
+        "likes": [38900, 102300, 123400, 189020, 212560] //5
       },
       {
         "avatar": "avatars/others/niki.png",
@@ -37,7 +37,7 @@ window.others = {
         "avatar": "avatars/others/ryan.png",
         "username": "Ryan",
         "text": "My name is Ryan. I'm 33 yrs old with 1 little monster and another on the way. I've been a real estate agent for about 9 years. I spend most of my time coaching little league and volunteering on the local school board.",
-        "likes": [78200, 136200, 183400] //3
+        "likes": [58200, 136200, 183400] //3
       },
       {
         "avatar": "avatars/others/kevin.png",
@@ -49,13 +49,13 @@ window.others = {
         "avatar": "avatars/others/kimberly.png",
         "username": "Kimberly",
         "text": "Hey, guys. I'm 19, native Georgian. I consider myself pretty nice, but not a total angel ;) I just like being friendly to people I meet. In my spare time, I like making all kinds of friends, having conversations about whatever, looking at paintings, reading, singing (show choir representtt!), making jewelry, and eating delicious food. Enjoy your day, stay out of trouble. <3",
-        "likes": [52400, 89140, 127300, 171900, 205300, 258300] //6
+        "likes": [32400, 89140, 127300, 171900, 205300, 258300] //6
       },
       {
         "avatar": "avatars/others/harry.png",
         "username": "Harry",
         "text": "Hi everybody, my names Harry. I own a True Value hardware and I do some carpentry work on the side. I'm a lifelong Patriots fan. My kids are grown and out of the house.",
-        "likes": [176200, 209372] //2
+        "likes": [126200, 209372] //2
       },
       {
         "avatar": "avatars/others/heather.png",
@@ -67,7 +67,7 @@ window.others = {
         "avatar": "avatars/others/jane.png",
         "username": "Jane",
         "text": "Dear all, my name is Jane. I am the proud mother of two talented children. My youngest enjoys drawing and painting. His big sister is a soccer prodigy. We moved recently to allow them to attend a better school and they are absolutely thriving here. My husband runs a very successful landscaping company. I was a florist before meeting my husband. Now I'm a full time mother. I enjoy reading and gardening in my spare time.",
-        "likes": [82350, 159833, 184304] //3
+        "likes": [52350, 159833, 184304] //3
       },
 
     ]
