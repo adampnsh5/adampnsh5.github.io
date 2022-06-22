@@ -31,19 +31,19 @@ window.others = {
         "avatar": "avatars/others/niki.png",
         "username": "Niki",
         "text": "Hiii I'm Niki! I run a cute little boutique at my local mall. My passion is beauty and cosmetics so I'm pretty much living the dream! If anyone wants some free samples come visit me at the Charleston Town Center!!!!!",
-        "likes": [29930, 62300, 99270, 132000, 157200, 255300] //6
+        "likes": [17930, 43300, 99270, 132000, 157200, 255300] //6
       },
     {
         "avatar": "avatars/others/ryan.png",
         "username": "Ryan",
         "text": "My name is Ryan. I'm 33 yrs old with 1 little monster and another on the way. I've been a real estate agent for about 9 years. I spend most of my time coaching little league and volunteering on the local school board.",
-        "likes": [48200, 136200, 183400] //3
+        "likes": [23567, 48200, 136200, 183400] //4
       },
       {
         "avatar": "avatars/others/kevin.png",
         "username": "Kevin",
         "text": "Hello, nice to meet you. My name is Kevin. I'm a second year college student studying engineering. I like to read and play the piano. I did track and field in high school, but I haven't had much time to practice since starting college.",
-        "likes": [49130, 162300] //2
+        "likes": [49130, 115040, 162300] //3
       },
           {
         "avatar": "avatars/others/kimberly.png",
@@ -55,7 +55,7 @@ window.others = {
         "avatar": "avatars/others/harry.png",
         "username": "Harry",
         "text": "Hi everybody, my names Harry. I own a True Value hardware and I do some carpentry work on the side. I'm a lifelong Patriots fan. My kids are grown and out of the house.",
-        "likes": [126200, 209372] //2
+        "likes": [85200, 132372] //2
       },
       {
         "avatar": "avatars/others/heather.png",
