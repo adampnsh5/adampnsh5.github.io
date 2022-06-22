@@ -13,7 +13,7 @@ window.others = {
         "avatar": "avatars/others/sarah.png",
         "username": "Sarah",
         "text": "Hello! Nice to meet you all. I’m Sarah, married, and mother of two wonderful (grown up) children. My career has been a bit peculiar. Starting off as a graduate historian, I switched to an entirely different discipline: occupational assessor trying to help young people with disabilities to get a job. I’ve just retired and started spending more time on my hobbies, such as singing, reading, and playing volleyball.",
-        "likes": [34240, 58340, 122350, 178320, 212400, 232400, 265130] //7
+        "likes": [15240, 58340, 122350, 178320, 212400, 232400, 265130] //7
       },
       {
         "avatar": "avatars/others/john.png",
@@ -25,19 +25,19 @@ window.others = {
         "avatar": "avatars/others/anca.png",
         "username": "Anca",
         "text": "Hello my name is Anca. I'm a registerd nurse but my passions are cooking and soccer. My dad is english and my mom is bengali. Dad is the biggest Man Utd fan in the world so that definitely rubbed off on me. Besides my hobbies my friends and wine are the most important thing in my life.",
-        "likes": [38900, 102300, 123400, 189020, 212560] //5
+        "likes": [18900, 52300, 123400, 189020, 212560] //5
       },
       {
         "avatar": "avatars/others/niki.png",
         "username": "Niki",
         "text": "Hiii I'm Niki! I run a cute little boutique at my local mall. My passion is beauty and cosmetics so I'm pretty much living the dream! If anyone wants some free samples come visit me at the Charleston Town Center!!!!!",
-        "likes": [49930, 62300, 99270, 132000, 157200, 255300] //6
+        "likes": [29930, 62300, 99270, 132000, 157200, 255300] //6
       },
     {
         "avatar": "avatars/others/ryan.png",
         "username": "Ryan",
         "text": "My name is Ryan. I'm 33 yrs old with 1 little monster and another on the way. I've been a real estate agent for about 9 years. I spend most of my time coaching little league and volunteering on the local school board.",
-        "likes": [58200, 136200, 183400] //3
+        "likes": [48200, 136200, 183400] //3
       },
       {
         "avatar": "avatars/others/kevin.png",
@@ -49,7 +49,7 @@ window.others = {
         "avatar": "avatars/others/kimberly.png",
         "username": "Kimberly",
         "text": "Hey, guys. I'm 19, native Georgian. I consider myself pretty nice, but not a total angel ;) I just like being friendly to people I meet. In my spare time, I like making all kinds of friends, having conversations about whatever, looking at paintings, reading, singing (show choir representtt!), making jewelry, and eating delicious food. Enjoy your day, stay out of trouble. <3",
-        "likes": [32400, 89140, 127300, 171900, 205300, 258300] //6
+        "likes": [22400, 79140, 127300, 171900, 205300, 258300] //6
       },
       {
         "avatar": "avatars/others/harry.png",
@@ -61,7 +61,7 @@ window.others = {
         "avatar": "avatars/others/heather.png",
         "username": "Heather",
         "text": "Hi y'all my name is Heather. I'm a gymnastics instructor with a passion for sports and theater. I've been doing gymnastics since middleschool and I believe that it's the best way to improve confidence and self control. My favorite shows are Wicked and Cats. I think I've seen both like 20 times. If our discussion topic is showtunes you better hope we're not paired up!",
-        "likes": [35260, 72600, 82540, 128300, 242300] //5
+        "likes": [15260, 42600, 82540, 128300, 242300] //5
       },
       {
         "avatar": "avatars/others/jane.png",
