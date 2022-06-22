@@ -7,13 +7,13 @@ window.others = {
         "avatar": "avatars/others/george.png",
         "username": "George",
         "text": "My names George. I'm originally from New York. moved to the Philadelphia area for work almost fifteen years ago. I'm in the food packaging industry. We make cartons for things like juiceboxes and soup broth. I'm a golfer. When we're not working my wife and I spend most of our time shuttling our boys between school and football practice.",
-        "likes": [67800, 152300, 219600, 252800] //4
+        "likes": [67800, 87240, 152300, 219600, 252800] //5
       },
       {
         "avatar": "avatars/others/sarah.png",
         "username": "Sarah",
         "text": "Hello! Nice to meet you all. I’m Sarah, married, and mother of two wonderful (grown up) children. My career has been a bit peculiar. Starting off as a graduate historian, I switched to an entirely different discipline: occupational assessor trying to help young people with disabilities to get a job. I’ve just retired and started spending more time on my hobbies, such as singing, reading, and playing volleyball.",
-        "likes": [35130, 74240, 88340, 162350, 198320, 212400, 232400] //7
+        "likes": [74240, 88340, 162350, 198320, 212400, 232400, 265130] //7
       },
       {
         "avatar": "avatars/others/john.png",
@@ -37,7 +37,7 @@ window.others = {
         "avatar": "avatars/others/ryan.png",
         "username": "Ryan",
         "text": "My name is Ryan. I'm 33 yrs old with 1 little monster and another on the way. I've been a real estate agent for about 9 years. I spend most of my time coaching little league and volunteering on the local school board.",
-        "likes": [35530, 78200, 136200, 183400] //4
+        "likes": [78200, 136200, 183400] //3
       },
       {
         "avatar": "avatars/others/kevin.png",
