@@ -47,7 +47,7 @@ $(function() {
 	// **Others' likes**     
 	// To keep the total distribution of "likes" constant across conditions, The "likes" received by one group member can be adjusted according to the participant's. By default, the other group member receives 9 "likes" in the participant-ostracism condition, 5 in the participant-inclusion condtion, and 1 in the participant-overinclusion condtion.
 	settings.condition_1_adjusted_likes = [62050, 99000, 118500, 135600, 193400, 217000, 238000, 266750, 288889]; // 9
-	settings.condition_2_adjusted_likes = [32050, 69000, 135600, 238000, 266750]; // 5
+	settings.condition_2_adjusted_likes = [59050, 89000, 135600, 238000, 266750]; // 5
 	settings.condition_3_adjusted_likes = [12000, 9999999]; //1	
 	
     // Usernames by which the participant will receive "likes"
