@@ -54,7 +54,7 @@ window.others = {
       {
         "avatar": "avatars/others/harry.png",
         "username": "Harry",
-        "text": "I own a True Value hardware and I do some carpentry work on the side. I'm a lifelong Patriots fan..........................................................",
+        "text": "I own a True Value hardware and I do some carpentry work on the side. I'm a lifelong Patriots fan. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
         "likes": [85200, 132372] //2
       },
       {
