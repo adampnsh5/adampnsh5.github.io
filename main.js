@@ -28,7 +28,7 @@ $(function() {
 	
 	// **Tasklength**     
     // Length of the group introduction task in milliseconds. Can be changed to any number (in ms). Default: 180000 (3min) 
-    settings.tasklength = 180000; 
+    settings.tasklength = 240000; 
 
 	
 	// **Number** **of** **"likes"**    
@@ -39,7 +39,7 @@ $(function() {
     settings.condition_1_likes = [82800, 9999999]; 
 
     // In condition 2, user will receive 6 likes at the following timepoints (in ms). Default: [10000, 15000,35000,80000,1320000,150000]
-    settings.condition_2_likes = [32500, 55300, 80600, 102500, 125800, 159300];  
+    settings.condition_2_likes = [32500, 55300, 80600, 112500, 165800, 199300];  
     
     // In condition 3, user will receive 9 likes at the following timepoints (in ms). Default: [10000, 11000,15000,35000,80000,100000,110000,150000,20000]
     settings.condition_3_likes = [10000, 11000,15000,35000,80000,100000,110000,150000,20000]; 
