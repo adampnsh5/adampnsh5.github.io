@@ -31,7 +31,7 @@ window.others = {
         "avatar": "avatars/others/niki.png",
         "username": "Niki",
         "text": "Hiii I'm Niki! I run a cute little boutique at my local mall. My passion is beauty and cosmetics so I'm pretty much living the dream! If anyone wants some free samples come visit me at the Charleston Town Center!!!!!",
-        "likes": [7930, 28007, 45270, 60500, 87200, 120300] //6
+        "likes": [7930, 28007, 45270, 70500, 87200, 120300] //6
       },
     {
         "avatar": "avatars/others/ryan.png",
