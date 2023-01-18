@@ -13,13 +13,13 @@ window.others = {
         "avatar": "avatars/others/sarah.png",
         "username": "Sarah",
         "text": "Hello! Nice to meet you all. I’m Sarah, married, and mother of two wonderful (grown up) children. My career has been a bit peculiar. Starting off as a graduate historian, I switched to an entirely different discipline: occupational assessor trying to help young people with disabilities to get a job. I’ve just retired and started spending more time on my hobbies, such as singing, reading, and playing volleyball.",
-        "likes": [8240, 14340, 30032, 33995, 62800, 82350, 108320, 122400, 142400] //9
+        "likes": [8240, 14340, 20032, 33995, 42800, 72350, 98320, 122400, 142400] //9
       },
       {
         "avatar": "avatars/others/john.png",
         "username": "John",
         "text": "Im 38 years old, married with four kids. Ive bean in construction for 20 years. Tryna make some extra cash. Not much else to know about me. I barbeque every weekend. My wife says I eat too much red meat but I tell her its steak or cigars and shes lucky its steak",
-		"likes": [23400, 40954, 71231, 119939, 144450] //5
+		"likes": [23400, 40954, 91231, 129939, 124450] //5
       },
       {
         "avatar": "avatars/others/anca.png",
@@ -36,7 +36,7 @@ window.others = {
     {
         "avatar": "avatars/others/ryan.png",
         "username": "Ryan",
-        "text": "My name is Ryan. I'm 33 yrs old with 1 little monster and another on the way. I've been a real estate agent for about 9 years. I spend most of my time coaching little league and volunteering on the local school board.",
+        "text": "33 yrs old with 1 little monster and another on the way. Real estate agent for 9 years, little league coach, school board member.",
         "likes": [20567, 38200, 70203, 107009, 123200, 163400] //6
       },
       {
@@ -61,13 +61,13 @@ window.others = {
         "avatar": "avatars/others/heather.png",
         "username": "Heather",
         "text": "Hi y'all my name is Heather. I'm a gymnastics instructor with a passion for sports and theater. I've been doing gymnastics since middleschool and I believe that it's the best way to improve confidence and self control. My favorite shows are Wicked and Cats. I think I've seen both like 20 times. If our discussion topic is showtunes you better hope we're not paired up!",
-        "likes": [9260, 10980, 82540, 101005, 128300, 148403, 192300] //7
+        "likes": [9260, 10980, 22540, 41005, 68300, 98403, 122300] //7
       },
       {
         "avatar": "avatars/others/jane.png",
         "username": "Jane",
         "text": "Dear all, my name is Jane. I am the proud mother of two talented children. My youngest enjoys drawing and painting. His big sister is a soccer prodigy. We moved recently to allow them to attend a better school and they are absolutely thriving here. My husband runs a very successful landscaping company. I was a florist before meeting my husband. Now I'm a full time mother. I enjoy reading and gardening in my spare time.",
-        "likes": [22350, 49898, 102222, 159833, 184304] //5
+        "likes": [22350, 49898, 52222, 79833, 114304] //5
       },
 
     ]
