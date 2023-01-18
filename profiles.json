@@ -7,31 +7,31 @@ window.others = {
         "avatar": "avatars/others/george.png",
         "username": "George",
         "text": "My names George. I'm originally from New York. moved to the Philadelphia area for work almost fifteen years ago. I'm in the food packaging industry. We make cartons for things like juiceboxes and soup broth. I'm a golfer. When we're not working my wife and I spend most of our time shuttling our boys between school and football practice.",
-        "likes": [47800, 87240, 132300, 180905, 199600, 232800] //6
+        "likes": [9598, 47800, 87240, 132300, 180905, 232800] //6
       },
       {
         "avatar": "avatars/others/sarah.png",
         "username": "Sarah",
         "text": "Hello! Nice to meet you all. I’m Sarah, married, and mother of two wonderful (grown up) children. My career has been a bit peculiar. Starting off as a graduate historian, I switched to an entirely different discipline: occupational assessor trying to help young people with disabilities to get a job. I’ve just retired and started spending more time on my hobbies, such as singing, reading, and playing volleyball.",
-        "likes": [15240, 34340, 50032, 60065, 72800, 122350, 148320, 182400, 202400] //9
+        "likes": [8240, 14340, 50032, 60065, 72800, 122350, 148320, 182400, 202400] //9
       },
       {
         "avatar": "avatars/others/john.png",
         "username": "John",
         "text": "Im 38 years old, married with four kids. Ive bean in construction for 20 years. Tryna make some extra cash. Not much else to know about me. I barbeque every weekend. My wife says I eat too much red meat but I tell her its steak or cigars and shes lucky its steak",
-		"likes": [52400, 70954, 111231, 149939, 214450] //5
+		"likes": [23400, 40954, 71231, 139939, 214450] //5
       },
       {
         "avatar": "avatars/others/anca.png",
         "username": "Anca",
         "text": "Hello my name is Anca. I'm a registerd nurse but my passions are cooking and soccer. My dad is english and my mom is bengali. Dad is the biggest Man Utd fan in the world so that definitely rubbed off on me. Besides my hobbies my friends and wine are the most important thing in my life.",
-        "likes": [18900, 40300, 901011, 123400, 149020, 182560] //6
+        "likes": [8900, 20300, 501011, 83400, 119020, 182560] //6
       },
       {
         "avatar": "avatars/others/niki.png",
         "username": "Niki",
         "text": "Hiii I'm Niki! I run a cute little boutique at my local mall. My passion is beauty and cosmetics so I'm pretty much living the dream! If anyone wants some free samples come visit me at the Charleston Town Center!!!!!",
-        "likes": [17930, 43300, 70007, 99270, 120500, 132000, 157200, 225300] //8
+        "likes": [7930, 13300, 40007, 69270, 90500, 112000, 147200, 205300] //8
       },
     {
         "avatar": "avatars/others/ryan.png",
@@ -43,31 +43,31 @@ window.others = {
         "avatar": "avatars/others/kevin.png",
         "username": "Kevin",
         "text": "Hello, nice to meet you. My name is Kevin. I'm a second year college student studying engineering. I like to read and play the piano. I did track and field in high school, but I haven't had much time to practice since starting college.",
-        "likes": [49130, 60987, 115040, 153023] //4
+        "likes": [29130, 50987, 115040, 153023] //4
       },
           {
         "avatar": "avatars/others/kimberly.png",
         "username": "Kimberly",
         "text": "Hey, guys. I'm 19, native Georgian. I consider myself pretty nice, but not a total angel ;) I just like being friendly to people I meet. In my spare time, I like making all kinds of friends, having conversations about whatever, looking at paintings, reading, singing (show choir representtt!), making jewelry, and eating delicious food. Enjoy your day, stay out of trouble. <3",
-        "likes": [14556, 22400, 79140, 99080, 127300, 151900, 185300, 218300] //8
+        "likes": [10556, 20400, 39140, 69080, 90300, 121900, 165300, 198300] //8
       },
       {
         "avatar": "avatars/others/harry.png",
         "username": "Harry",
         "text": "I own a True Value hardware and I do some carpentry work on the side. I'm a lifelong Patriots fan. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
-        "likes": [85200, 132372] //2
+        "likes": [65200, 102372] //2
       },
       {
         "avatar": "avatars/others/heather.png",
         "username": "Heather",
         "text": "Hi y'all my name is Heather. I'm a gymnastics instructor with a passion for sports and theater. I've been doing gymnastics since middleschool and I believe that it's the best way to improve confidence and self control. My favorite shows are Wicked and Cats. I think I've seen both like 20 times. If our discussion topic is showtunes you better hope we're not paired up!",
-        "likes": [15260, 60980, 82540, 101005, 128300, 148403, 192300] //7
+        "likes": [9260, 10980, 82540, 101005, 128300, 148403, 192300] //7
       },
       {
         "avatar": "avatars/others/jane.png",
         "username": "Jane",
         "text": "Dear all, my name is Jane. I am the proud mother of two talented children. My youngest enjoys drawing and painting. His big sister is a soccer prodigy. We moved recently to allow them to attend a better school and they are absolutely thriving here. My husband runs a very successful landscaping company. I was a florist before meeting my husband. Now I'm a full time mother. I enjoy reading and gardening in my spare time.",
-        "likes": [52350, 89898, 132222, 159833, 184304] //5
+        "likes": [22350, 49898, 102222, 159833, 184304] //5
       },
 
     ]
