@@ -25,13 +25,13 @@ window.others = {
         "avatar": "avatars/others/anca.png",
         "username": "Anca",
         "text": "Hello my name is Anca. I'm a registerd nurse but my passions are cooking and soccer. My dad is english and my mom is bengali. Dad is the biggest Man Utd fan in the world so that definitely rubbed off on me. Besides my hobbies my friends and wine are the most important thing in my life.",
-        "likes": [12400, 20300, 381011, 43400, 69020, 132560] //6
+        "likes": [12400, 20300, 381011, 43400, 69020, 83400, 132560] //7
       },
       {
         "avatar": "avatars/others/niki.png",
         "username": "Niki",
         "text": "Hiii I'm Niki! I run a cute little boutique at my local mall. My passion is beauty and cosmetics so I'm pretty much living the dream! If anyone wants some free samples come visit me at the Charleston Town Center!!!!!",
-        "likes": [7930, 13300, 20007, 39270, 50500, 87200, 12300] //7
+        "likes": [7930, 28007, 45270, 60500, 87200, 12300] //6
       },
     {
         "avatar": "avatars/others/ryan.png",
@@ -61,7 +61,7 @@ window.others = {
         "avatar": "avatars/others/heather.png",
         "username": "Heather",
         "text": "Hi y'all my name is Heather. I'm a gymnastics instructor with a passion for sports and theater. I've been doing gymnastics since middleschool and I believe that it's the best way to improve confidence and self control. My favorite shows are Wicked and Cats. I think I've seen both like 20 times. If our discussion topic is showtunes you better hope we're not paired up!",
-        "likes": [9260, 10980, 22540, 27900, 51005, 78300, 108403, 132300] //8
+        "likes": [9260, 10980, 22540, 37900, 51005, 78300, 108403, 132300] //8
       },
       {
         "avatar": "avatars/others/jane.png",
