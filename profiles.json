@@ -19,7 +19,7 @@ window.others = {
         "avatar": "avatars/others/john.png",
         "username": "John",
         "text": "Im 38 years old, married with four kids. Ive bean in construction for 20 years. Tryna make some extra cash. Not much else to know about me. I barbeque every weekend. My wife says I eat too much red meat but I tell her its steak or cigars and shes lucky its steak",
-		"likes": [23400, 40954, 91231, 129939, 124450] //5
+		"likes": [23400, 40954, 91231, 129939, 154450] //5
       },
       {
         "avatar": "avatars/others/anca.png",
@@ -31,13 +31,13 @@ window.others = {
         "avatar": "avatars/others/niki.png",
         "username": "Niki",
         "text": "Hiii I'm Niki! I run a cute little boutique at my local mall. My passion is beauty and cosmetics so I'm pretty much living the dream! If anyone wants some free samples come visit me at the Charleston Town Center!!!!!",
-        "likes": [7930, 13300, 20007, 39270, 50500, 572000, 87200, 12300] //8
+        "likes": [7930, 13300, 20007, 39270, 50500, 57200, 87200, 12300] //8
       },
     {
         "avatar": "avatars/others/ryan.png",
         "username": "Ryan",
         "text": "33 yrs old with 1 little monster and another on the way. Real estate agent for 9 years, little league coach, school board member.",
-        "likes": [20567, 38200, 70203, 107009, 123200, 163400] //6
+        "likes": [20567, 38200, 70203, 107009, 113200, 163400] //6
       },
       {
         "avatar": "avatars/others/kevin.png",
